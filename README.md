@@ -1,4 +1,10 @@
-# random_user
+# Random user generator
+
+This is a simple **Vue.js** project.
+It is just generate a random user and make the card for it.
+All data coming from <https://randomuser.me/>.
+
+It is note done yet, I have some more ideas for this project. This project is ideal for learnig the **Vue.js**
 
 ## Project setup
 ```
