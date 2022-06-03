@@ -21,13 +21,6 @@
             this.$emit('getData', results[0])
         }
     }
-    // {
-    //     return{
-    //         firstName: 'Chaby',
-    //         lastName: 'Manow',
-    //         email: 'chabymanow@gmail.com'
-    //     }
-    // }
     }
 </script>
 

@@ -2,7 +2,7 @@
     <div class="card">
         
         <img v-bind:src="picture" alt="">
-        <p class="name">{{title}}. {{firstName}} {{lastName}}</p>
+        <p class="name">{{title}} {{firstName}} {{lastName}}</p>
         <p class="email">{{email}}</p>
         <p class="phone">{{phone}}</p>
         <p class="mobile">{{mobile}}</p>
